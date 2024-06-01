@@ -11,3 +11,17 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+p {
+    color: rgb(85, 85, 85);
+}
+
+/* TRANSICAO */
+
+a, .btn{
+    transition: all 300ms ease;
+}
